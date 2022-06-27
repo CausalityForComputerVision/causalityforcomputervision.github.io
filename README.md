@@ -12,7 +12,7 @@ Climb [**The Ladder**](https://causalityforcomputervision.github.io/) with us.
 
 [ACL](https://www.2022.aclweb.org/callpapers) November 15, 2021*
 
-[**CVPR**](https://cvpr.info/Conferences/2023/Timeline) November 18, 2021*
+[**CVPR**](https://cvpr.info/Conferences/2023/Timeline) **November 18, 2021***
 
 [ICML](https://icml.cc/Conferences/2022/CallForPapers) Jan 11, 2022*
 
