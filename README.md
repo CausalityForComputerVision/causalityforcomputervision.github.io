@@ -4,7 +4,7 @@ Climb [**The Ladder**](https://causalityforcomputervision.github.io/) with us.
 
 [ECCV Workshop (2nd Causality in Vision)](https://www.causalityinvision.com/submission.html) July 22, 2022
 
-[**AAAI**](https://aaai.org/Conferences/AAAI-23/aaai23call/) **August 15, 2022**
+[**AAAI**](https://aaai.org/Conferences/AAAI-23/aaai23call/) **August 15, 2022** [count down](https://causalityforcomputervision.github.io/countdown)
 
 [EMNLP (Author response period)](https://2022.emnlp.org/calls/main_conference_papers/) Aug 23 – Aug 29, 2022
 
