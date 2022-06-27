@@ -1,6 +1,6 @@
 ## Causality is awesome
 
-Climb [**[The Ladder]**](https://causalityforcomputervision.github.io/) with us.
+Climb [**The Ladder**](https://causalityforcomputervision.github.io/) with us.
 
 [AAAI](https://aaai.org/Conferences/AAAI-23/aaai23call/) August 15, 2022
 
