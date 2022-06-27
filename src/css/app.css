@@ -14,15 +14,15 @@
 }
 
 #coin {
-  height: 120px;
-  width: 120px;
+  height: 360px;
+  width: 360px;
   position: relative;
   margin: 0;
   transform-style: preserve-3d;
 }
 
 #coin img {
-  width: 120px;
+  width: 360px;
 }
 
 .tails {
