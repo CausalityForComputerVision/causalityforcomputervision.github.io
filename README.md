@@ -27,3 +27,7 @@ Climb [**The Ladder**](https://causalityforcomputervision.github.io/) with us.
 [ICCV](https://iccv2023.thecvf.com/submission.timeline-36800-2-12-8.php) March 8, 2023
 
 [NeurIPS](https://neurips.cc/Conferences/2022/CallForPapers) May 16, 2022*
+
+## Past
+
+[EMNLP](https://2022.emnlp.org/calls/main_conference_papers/) June 24, 2022
