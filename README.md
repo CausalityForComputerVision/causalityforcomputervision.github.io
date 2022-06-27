@@ -10,7 +10,7 @@ Climb [**The Ladder**](https://causalityforcomputervision.github.io/) with us.
 
 [**AAAI**](https://aaai.org/Conferences/AAAI-23/aaai23call/) **August 15, 2022** [count down](https://causalityforcomputervision.github.io/countdown)
 
-[EMNLP (Author response period)](https://2022.emnlp.org/calls/main_conference_papers/) Aug 23 – Aug 29, 2022
+EMNLP (Author response period) Aug 23 – Aug 29, 2022
 
 [ICLR](https://www.iclr.cc/Conferences/2023/CallForPapers) Oct 05, 2021*
 
