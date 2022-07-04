@@ -101,6 +101,15 @@
     <script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
     <coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,dogecoin,binancecoin,polkadot,shiba-inu,matic-network,uniswap,monero,axie-infinity,the-sandbox,decentraland" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
   
+    <button onclick="myFunction()">Dark</button>
+
+    <script>
+    function myFunction() {
+       var element = document.body;
+       element.classList.toggle("dark-mode");
+    }
+    </script>      
+    
     <h1>WACV 2023</h1>
     <p id="demo"></p>
     <script>
@@ -136,14 +145,7 @@
     </main>
     <script src="./src/js/app.js"></script>
     
-    <button onclick="myFunction()">Dark</button>
 
-    <script>
-    function myFunction() {
-       var element = document.body;
-       element.classList.toggle("dark-mode");
-    }
-    </script>  
   
   </body>
 </html>
