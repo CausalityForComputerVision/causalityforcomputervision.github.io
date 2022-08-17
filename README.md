@@ -20,7 +20,7 @@ EMNLP (Author response period) Aug 23 – Aug 29, 2022
 
 [ACL](https://www.2022.aclweb.org/callpapers) November 15, 2021*
 
-[**CVPR**](https://cvpr.info/Conferences/2023/Timeline) **November 11, 2022 [count down](https://causalityforcomputervision.github.io/cvpr)
+[**CVPR**](https://cvpr.info/Conferences/2023/Timeline) **November 11, 2022**
 
 [ICML](https://icml.cc/Conferences/2022/CallForPapers) Jan 11, 2022*
 
